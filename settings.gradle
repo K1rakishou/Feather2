@@ -1,0 +1,2 @@
+rootProject.name='Feather2'
+include ':app'
