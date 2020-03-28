@@ -1,5 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.k1rakishou.feather2">
-
-
+<manifest package="com.github.k1rakishou.feather2">
+    <application/>
 </manifest>
