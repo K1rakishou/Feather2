@@ -1,5 +1,4 @@
 *.iml
-/local.properties
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
@@ -13,10 +12,7 @@
 .cxx
 /.idea/.name
 /.idea/codeStyles/codeStyleConfig.xml
-/gradle.properties
 /.idea/gradle.xml
-/gradlew
-/gradlew.bat
 /.idea/misc.xml
 /app/proguard-rules.pro
 /.idea/codeStyles/Project.xml
